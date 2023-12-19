@@ -1,0 +1,2 @@
+C:\Users\Pc\source\repos\SimuBuspCareTESTE\SimuBuspCareTESTE\x64\Debug\SimuBuspCareTESTE.vcxproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\PROGRAMAS BUSPCARE ALPHA2\SimuBuspCareTESTE\SimuBuspCareTESTE\x64\Debug\SimuBuspCareTESTE.vcxproj.AssemblyReference.cache
